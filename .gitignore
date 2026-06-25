@@ -1,0 +1,8 @@
+dataset/
+*.pth
+outputs/
+slurm_output_*.out
+
+.venv/
+__pycache__/
+*.pyc
